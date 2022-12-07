@@ -15,7 +15,7 @@ namespace ShowLoadingPanelFromGrid {
             if(!IsPostBack && !IsCallback)
                 ASPxGridViewDemo.DetailRows.ExpandRow(0);
         }
-        protected void ASPxCallbackDemo_Callback(object source, DevExpress.Web.ASPxCallback.CallbackEventArgs e) {
+        protected void ASPxCallbackDemo_Callback(object source, DevExpress.Web.CallbackEventArgs e) {
             // emulate a long lasting operation
             System.Threading.Thread.Sleep(3000);
         }

@@ -18,7 +18,7 @@ Namespace ShowLoadingPanelFromGrid
 				ASPxGridViewDemo.DetailRows.ExpandRow(0)
 			End If
 		End Sub
-		Protected Sub ASPxCallbackDemo_Callback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxCallback.CallbackEventArgs)
+		Protected Sub ASPxCallbackDemo_Callback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgs)
 			' emulate a long lasting operation
 			System.Threading.Thread.Sleep(3000)
 		End Sub

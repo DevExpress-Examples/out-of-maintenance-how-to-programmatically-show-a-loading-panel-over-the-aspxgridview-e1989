@@ -29,7 +29,7 @@ namespace ShowLoadingPanelFromGrid {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel ASPxLoadingPanelDemo;
+        protected global::DevExpress.Web.ASPxLoadingPanel ASPxLoadingPanelDemo;
         
         /// <summary>
         /// ASPxGridViewDemo control.
@@ -38,7 +38,7 @@ namespace ShowLoadingPanelFromGrid {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridViewDemo;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridViewDemo;
         
         /// <summary>
         /// ASPxCallbackDemo control.
@@ -47,6 +47,6 @@ namespace ShowLoadingPanelFromGrid {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallback.ASPxCallback ASPxCallbackDemo;
+        protected global::DevExpress.Web.ASPxCallback ASPxCallbackDemo;
     }
 }

@@ -32,7 +32,7 @@ Namespace ShowLoadingPanelFromGrid
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLoadingPanelDemo As Global.DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel
+		Protected ASPxLoadingPanelDemo As Global.DevExpress.Web.ASPxLoadingPanel
 
 		''' <summary>
 		''' ASPxGridViewDemo control.
@@ -41,7 +41,7 @@ Namespace ShowLoadingPanelFromGrid
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridViewDemo As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridViewDemo As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' ASPxCallbackDemo control.
@@ -50,6 +50,6 @@ Namespace ShowLoadingPanelFromGrid
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCallbackDemo As Global.DevExpress.Web.ASPxCallback.ASPxCallback
+		Protected ASPxCallbackDemo As Global.DevExpress.Web.ASPxCallback
 	End Class
 End Namespace
